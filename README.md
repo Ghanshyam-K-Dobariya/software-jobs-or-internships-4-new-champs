@@ -6,7 +6,7 @@ Don't add a job entry here if
 
  1. It needs working experience (Freshers don't have working experience)
  2. Freshers need to pay anything to get internship / job
- 3. Collegs is in the center & not the candidate
+ 3. College is in the center & not the candidate
 
 
 # Internships
