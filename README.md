@@ -12,8 +12,6 @@ In case you find that a job is no more active, please raise PR to remove the ent
 
 # Internships
 
-https://groww.skillate.com/jobs/12841 (Web Intern @ Groww)
-
 Swiggy - Frontend & Backend - https://www.linkedin.com/posts/harshit-chopra-b98a94189_frontend-internshipopportunity-students-activity-6901896048130826240-O0Zq
 
 
